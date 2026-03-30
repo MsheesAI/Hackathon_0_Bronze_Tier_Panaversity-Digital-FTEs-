@@ -1,3 +1,9 @@
 2026-03-30 22:35:51,881 - FileSystemWatcher - INFO - Starting FileSystemWatcher
 2026-03-30 22:35:51,883 - FileSystemWatcher - INFO - Vault path: ..\AI_Employee_Vault
 2026-03-30 22:35:51,883 - FileSystemWatcher - INFO - Check interval: 5s
+2026-03-30 22:37:26,897 - FileSystemWatcher - INFO - New file detected: test.txt
+2026-03-30 22:37:26,897 - FileSystemWatcher - INFO - Created action file: FILE_test_238584f76cefe848_2026-03-30.md
+2026-03-30 22:37:26,903 - FileSystemWatcher - INFO - Created action file: FILE_test_238584f76cefe848_2026-03-30.md
+2026-03-30 22:52:12,261 - FileSystemWatcher - INFO - New file detected: test_verification.txt
+2026-03-30 22:52:12,261 - FileSystemWatcher - INFO - Created action file: FILE_test_verification_e9ce4deae89b16cd_2026-03-30.md
+2026-03-30 22:52:12,261 - FileSystemWatcher - INFO - Created action file: FILE_test_verification_e9ce4deae89b16cd_2026-03-30.md
