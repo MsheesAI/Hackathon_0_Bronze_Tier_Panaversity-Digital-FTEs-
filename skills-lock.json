@@ -1,6 +1,21 @@
 {
   "version": 1,
   "skills": {
+    "file-system-watcher": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Monitors drop folder for new files and creates action files in Obsidian vault"
+    },
+    "ai-employee-orchestrator": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Coordinates AI Employee tasks, triggers Qwen processing, updates dashboard"
+    },
+    "ai-employee-dashboard": {
+      "source": "local",
+      "sourceType": "local",
+      "description": "Manages Dashboard.md updates and status tracking"
+    },
     "browsing-with-playwright": {
       "source": "bilalmk/todo_correct",
       "sourceType": "github",
