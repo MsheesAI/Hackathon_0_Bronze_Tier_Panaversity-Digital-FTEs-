@@ -283,3 +283,5 @@ This project is part of the Panaversity Hackathon 0 challenge.
 ---
 
 *Built for Panaversity Hackathon 0 - Bronze Tier - Using Qwen (Free)*
+## AI Tools Used
+- Qwen for reasoning and task processing
